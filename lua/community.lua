@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.mdx" },
   { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.completion.supermaven-nvim" },
   { import = "astrocommunity.colorscheme.night-owl-nvim" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.colorscheme.poimandres-nvim" },
