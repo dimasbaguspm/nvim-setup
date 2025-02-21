@@ -25,5 +25,6 @@ return {
   { import = "astrocommunity.git.octo-nvim" },
   { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.recipes.heirline-clock-statusline" },
   -- import/override with your plugins folder
 }
